@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@font-face {
+    font-family: 'vegan';
+    src: url('/isset/font/Vegan.ttf');
+}
+body{
+    background-color: #f3f2f2;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+  }
+a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+  }
+.nav-item{
+    display: inline;
+    justify-content: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 0px 17px;
+    color: #5f5f5f;
+    text-align: center;
+}
+.navbar-nav{
+  margin-left: 30px;
+}
+.login a {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    color: #525252!important;
+}
+.form1 {
+  text-align: center;
+  
+}
+.card {
+  padding: 10px;
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
